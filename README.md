@@ -6,7 +6,7 @@ Developed as a coursework project covering the full database lifecycle — from 
 
 ---
 
-## Entity-Relationship Diagram (EERD)
+## Enhanced Entity-Relationship Diagram (EERD)
 
 ![EERD](Phase%201%20-%20Database%20Design/eerd.jpg)
 
